@@ -38,6 +38,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-indesign-cc-icon.svg" title="Adobe Indesign"  alt="Adobe Indesign" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva"  alt="Canva" width="40" height="40"/>&nbsp;
 <br>
+<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello"  alt="Trello" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack"  alt="Slack" width="40" height="40"/>&nbsp;
 
