@@ -31,10 +31,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vs Code"  alt="Vs Code" width="40" height="40"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" title="Wordpress"  alt="Wordpress" width="40" height="40"/>&nbsp;
 <br>
-[Microsoft Office]
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop"  alt="Photoshop" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator"  alt="Illustrator" width="40" height="40"/>&nbsp;
-[Adobe InDesign]
+<br>
+<img src="https://cdn.worldvectorlogo.com/logos/office-1.svg" title="Microsoft Office"  alt="Microsoft Office" width="40" height="40"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" title="Adobe Photoshop"  alt="Adobe Photoshop" width="40" height="40"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" title="Adobe Illustrator"  alt="Adobe Illustrator" width="40" height="40"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-indesign-cc-icon.svg" title="Adobe Indesign"  alt="Adobe Indesign" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva"  alt="Canva" width="40" height="40"/>&nbsp;
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello"  alt="Trello" width="40" height="40"/>&nbsp;
