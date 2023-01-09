@@ -45,7 +45,7 @@
 
 ### 🔥 My Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoDeCaroCarella&langs_count=10&count_private=true&show_icons=true&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoDeCaroCarella&layout=compact&show_icons=true&theme=vision-friendly-dark)]
 
 
 ### 👨‍💻 My Last Projects
