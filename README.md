@@ -13,7 +13,7 @@
 - 🪴 I love plants and I have at least thirty at home.
 - 🏊🏻‍♀️ I love play tennis and swim.
 - 🥾 I love trekking in the mountains
-- ⚡ Fun fact: i love legos, books and graphic novels.
+- ⚡ Fun fact: I love legos, books and graphic novels.
 - 📫 Follow me: <a href="https://it.linkedin.com/in/francescodecarocarella" target="blank">Linkedin</a>, <a href="https://www.instagram.com/fdcc_webdev/" target="blank">Instagram</a>, <a href="https://www.https://francescodecarocarella.it/" target="blank">Website</a>.
 
 
