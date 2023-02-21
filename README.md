@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Francesco De Caro Carella!<br>Welcome to my GitHub</h1>
 
-<h2 align="center">I'm a freelance Front-End Web Developer<br>and Graphic Designer from Italy</h2>
+<h2 align="center">I'm a freelance Web Developer Front-End<br>and Graphic Designer from Italy</h2>
 
 ### 🧑‍🦰 About Me
 
