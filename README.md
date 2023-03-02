@@ -38,6 +38,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" title="Adobe Illustrator"  alt="Adobe Illustrator" width="40" height="40"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-indesign-cc-icon.svg" title="Adobe Indesign"  alt="Adobe Indesign" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva"  alt="Canva" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="40" height="40"/>&nbsp;
 <br>
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello"  alt="Trello" width="40" height="40"/>&nbsp;
@@ -49,6 +50,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoDeCaroCarella&layout=compact&show_icons=true&theme=vision-friendly-dark)
 
 
-### 👨‍💻 My Last Projects
+### 👨‍💻 My Projects
 
-[Stay Tuned]
+| Advice Generator App <br>  HTML5 . Sass/SCSS . React.js . Next.js   | The Booking Clone App <br>  HTML5 . Sass/SCSS . React.js . Next.js |
+| :---:  | :---:  |
+| <a href="https://github.com/FrancescoDeCaroCarella/Advice-Generator-App" target="blank"><img src="https://github.com/FrancescoDeCaroCarella/Advice-Generator-App/blob/main/public/Fdcc-Advice-Generator-App.png" alt="banner" align="center"/></a>  | <img src="https://raw.githubusercontent.com/FrancescoDeCaroCarella/Advice-Generator-App/main/public/Fdcc-Placeholder.png" alt="banner" align="center"/>  |
+| **The Twitter Clone <br>  HTML5 . Sass/SCSS . React.js . Next.js**   | The Amazon Prime Video Clone <br>  HTML5 . Sass/SCSS . React.js . Next.js |
+| <img src="https://raw.githubusercontent.com/FrancescoDeCaroCarella/Advice-Generator-App/main/public/Fdcc-Placeholder.png" alt="banner" align="center"/>  | <img src="https://raw.githubusercontent.com/FrancescoDeCaroCarella/Advice-Generator-App/main/public/Fdcc-Placeholder.png" alt="banner" align="center"/>  |
+
