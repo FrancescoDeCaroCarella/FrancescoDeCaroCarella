@@ -6,8 +6,8 @@
 
 ### 🧑‍🦰 About Me
 
-- 🔭 I work as freelance Graphic Designer and Web Developer with CMS Wordpress.
-- 📸 I also work as a junior photographer.
+- 🔭 I work as freelance Web Developer Front End, Graphic Designer and UI/UX Designer.
+- 📸 I also work as a junior photographer (sometimes) and Web Developer of website with CMS Wordpress.
 - 🌱 I’m learning Javascript, Node and React.
 - 💼 I am looking for a remote recruitment.
 - 🪴 I love plants and I have at least thirty at home.
