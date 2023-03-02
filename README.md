@@ -6,9 +6,9 @@
 
 ### 🧑‍🦰 About Me
 
-- 🔭 I work as freelance Web Developer Front End, Graphic Designer and UI/UX Designer.
+- 🔭 I work as freelance Web Developer Front End, Graphic Designer.
 - 📸 I also work as a junior photographer (sometimes) and Web Developer of website with CMS Wordpress.
-- 🌱 I’m learning Javascript, Node and React.
+- 🌱 I’m learning NextJS and the principles of UI/UX Design.
 - 💼 I am looking for a remote recruitment.
 - 🪴 I love plants and I have at least thirty at home.
 - 🏊🏻‍♀️ I love play tennis and swim.
