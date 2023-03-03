@@ -52,9 +52,9 @@
 
 ### 👨‍💻 My Projects
 
-| Advice Generator App <br>  HTML5 . Sass/SCSS . React.js . Next.js   | The Booking Clone App <br>  HTML5 . Sass/SCSS . React.js . Next.js |
+| The Booking Clone App <br>  HTML5 . Sass/SCSS . React.js . Next.js | The Twitter Clone <br>  HTML5 . Sass/SCSS . React.js . Next.js |
 | :---:  | :---:  |
-| <a href="https://github.com/FrancescoDeCaroCarella/Advice-Generator-App" target="blank"><img src="https://github.com/FrancescoDeCaroCarella/Advice-Generator-App/blob/main/public/Fdcc-Advice-Generator-App.png" alt="banner" align="center"/></a>  | <img src="https://raw.githubusercontent.com/FrancescoDeCaroCarella/Advice-Generator-App/main/public/Fdcc-Placeholder.png" alt="banner" align="center"/>  |
-| **The Twitter Clone <br>  HTML5 . Sass/SCSS . React.js . Next.js**   | The Amazon Prime Video Clone <br>  HTML5 . Sass/SCSS . React.js . Next.js |
-| <img src="https://raw.githubusercontent.com/FrancescoDeCaroCarella/Advice-Generator-App/main/public/Fdcc-Placeholder.png" alt="banner" align="center"/>  | <img src="https://raw.githubusercontent.com/FrancescoDeCaroCarella/Advice-Generator-App/main/public/Fdcc-Placeholder.png" alt="banner" align="center"/>  |
+| <a href="https://github.com/FrancescoDeCaroCarella/Booking-Clone-App" target="blank"><img src="https://raw.githubusercontent.com/FrancescoDeCaroCarella/Advice-Generator-App/main/public/Fdcc-Placeholder.png" alt="banner" align="center"/></a> | <a href="#" target="blank"><img src="https://raw.githubusercontent.com/FrancescoDeCaroCarella/Advice-Generator-App/main/public/Fdcc-Placeholder.png" alt="banner" align="center"/></a> |
+| **The Amazon Prime Video Clone <br>  HTML5 . Sass/SCSS . React.js . Next.js** | **Advice Generator App <br>  HTML5 . Sass/SCSS . React.js . Next.js** |
+| <a href="#" target="blank"><img src="https://raw.githubusercontent.com/FrancescoDeCaroCarella/Advice-Generator-App/main/public/Fdcc-Placeholder.png" alt="banner" align="center"/></a> | <a href="https://github.com/FrancescoDeCaroCarella/Advice-Generator-App" target="blank"><img src="https://github.com/FrancescoDeCaroCarella/Advice-Generator-App/blob/main/public/Fdcc-Advice-Generator-App.png" alt="banner" align="center"/></a> |
 
