@@ -1,4 +1,4 @@
-<img src="https://francescodecarocarella.it./public/img/fdcc-at-work.jpg" alt="banner" align="center"/>
+<img src="https://francescodecarocarella.it/wp-content/uploads/2024/01/about-me-color.jpg" alt="banner" align="center"/>
 
 <h1 align="center">Hi there, I'm Francesco De Caro Carella!<br>Welcome to my GitHub</h1>
 
